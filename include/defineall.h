@@ -11,7 +11,7 @@
 #include "inpaint.h"
 #include "maskedimage.h"
 #include "nearestneighborfield.h"
-#include "qualitymesures.h"
+#include "qualitymeasures.h"
 
 double max1(double a, double b);
 double min1(double a, double b);
